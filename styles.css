@@ -9,8 +9,6 @@ body {
     background-attachment: fixed;
     background-color: #000; /* Fallback background color */
     font-family: 'ClashDisplay-Medium';
-    src: url('C:/Users/sidha/Desktop/Homepage/fonts/clash-display-medium.woff2') format('woff2'),
-         url('C:/Users/sidha/Desktop/Homepage/fonts/clash-display-medium.woff') format('woff');
 }
 
 .glass-effect {
